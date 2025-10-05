@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bnc-sdk": "^4.6.9",
     "ethers": "^6.15.0"
   }
 }
